@@ -3,6 +3,7 @@ import coverImage from "../../assets/about/portfolio-01.jpg";
 
 
 function About() {
+    
     return (
             <section className="my-5">
                 <center>
