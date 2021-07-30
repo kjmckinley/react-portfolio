@@ -1,10 +1,8 @@
-
-// import required files
 import React, { useState } from 'react';
 import Nav from './components/nav';
 import About from './components/about';
-import Project from './components/project';
 import Footer from './components/footer';
+import Project from './components/project';
 import ContactForm from './components/contact';
 
 

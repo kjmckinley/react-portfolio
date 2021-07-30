@@ -1,4 +1,3 @@
-
 import React, {useState, useEffect} from 'react';
 import NavBar from '../nav';
 import About from '../about';
