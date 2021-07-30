@@ -30,7 +30,9 @@ const ProjectList = ({ category }) =>{
                 src={photo}
                 alt="Frontend Example"
             />
+            
         </div>
+        
     )
 }
 

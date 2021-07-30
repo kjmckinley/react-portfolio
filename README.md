@@ -1,6 +1,8 @@
 # React-Portfolio
+
 ## Summary
-20. React Portfolio
+
+This application is my very own  portfolio, using React!
 
 # Table of Contents
 - [Usage](#Usage)
@@ -10,21 +12,22 @@
 - [Questions](#Questions)
 
 ## Usage
-In the project directory, you can run:
+In the root application directory, run:
 `npm start`
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Which will run the app in the development mode.\
+Type or click [http://localhost:3000](http://localhost:3000) in the browser to view the portfolio.
 
-## Deployment
-[React Portfolio](https://xritchie91.github.io/React-Portfolio/)
+## Links
+[Portfolio]()
 
-## Screenshots
+## Demo
+
 
 ## Contributors
+- [Kyle McKinley](https://www.github.com/kjmckinley)
 - [Ritchie Ortiz](https://www.github.com/xRitchie91)
 - [Peter Martinez](https://www.github.com/Pmarti53)
 - [Lacey Griffith](https://www.github.com/lacey-griffith)
-- [Emily Pozzi](https://www.github.com/emilyepozzi)
 
 ## Questions
-[Ask Away](https://www.github.com/xRitchie91)
+[Ask Me Anything!](https://www.github.com/kjmckinley)
