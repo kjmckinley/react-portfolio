@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-import photo from '../../assets/small/front-end/react.parkfinder.png'
+import photo from '../../assets/small/front-end/react.mental-health.PNG'
 
 // array of objects that connect to respective photos
 const ProjectList = ({ category }) =>{

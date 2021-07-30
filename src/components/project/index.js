@@ -12,10 +12,7 @@ function Project({ currentCategory }) {
             <ProjectList category={currentCategory.name} />
         </center>
 
-        <center>
-            <ProjectList category={currentCategory.name} />
-        </center>
-
+        
         </section>
         
 
