@@ -18,7 +18,8 @@ Which will run the app in the development mode.\
 Type or click [http://localhost:3000](http://localhost:3000) in the browser to view the portfolio.
 
 ## Links
-[Portfolio]()
+- [GitHub Link](https://github.com/kjmckinley/react-portfolio.git)
+- [Heroku Link Portfolio](https://react-portfolio-kjm.herokuapp.com/)
 
 ## Demo
 
