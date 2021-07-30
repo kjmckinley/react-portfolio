@@ -26,10 +26,8 @@ const ProjectList = ({ category }) =>{
                     />
                 ))}
             </div>
-            <img
-                src={photo}
-                alt="Frontend Example"
-            />
+            
+            <img src={photo} alt="Frontend Example"/>
             
         </div>
         

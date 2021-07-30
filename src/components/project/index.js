@@ -11,7 +11,16 @@ function Project({ currentCategory }) {
             <p>{description}</p>
             <ProjectList category={currentCategory.name} />
         </center>
+
+        <center>
+            <h1 data-testid="h1tag">{capitalizeFirstLetter(name)}</h1>
+            <p>{description}</p>
+            <ProjectList category={currentCategory.name} />
+        </center>
+
         </section>
+        
+
 
     );
 }
