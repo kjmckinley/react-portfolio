@@ -24,7 +24,7 @@ function Nav(props) {
             <h2>
                 <a data-testid="link" href="/" className="header">
                     <span role="img" aria-label="camera"></span>
-                    <center>My Portfolio</center>
+                    <center>Kyle McKinley</center>
                 </a>
             </h2>
             
