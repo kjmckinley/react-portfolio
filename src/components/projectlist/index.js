@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 
 import photo from '../../assets/small/front-end/react.parkfinder.png'
 
+// array of objects that connect to respective photos
 const ProjectList = ({ category }) =>{
     
     const [photos] = useState([
@@ -17,6 +18,7 @@ const ProjectList = ({ category }) =>{
         }
     ]);
 
+    // variable that holds current photo of application example
     const currentPhotos = photos.filter((photo) => photo.category === category);
 
     return (
