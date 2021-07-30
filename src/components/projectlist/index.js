@@ -10,6 +10,11 @@ const ProjectList = ({ category }) =>{
             category: 'front end',
             description: 'A website that searches for national parks'
         },
+        {
+            name: 'mental-health-app',
+            category: 'frontend',
+            description: 'an application that guides you through a simple breathing exercise.'
+        }
     ]);
 
     const currentPhotos = photos.filter((photo) => photo.category === category);
@@ -26,7 +31,7 @@ const ProjectList = ({ category }) =>{
                     />
                 ))}
             </div>
-            
+
             <img src={photo} alt="Frontend Example"/>
             
         </div>
