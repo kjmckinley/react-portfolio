@@ -21,6 +21,7 @@ Type or click [http://localhost:3000](http://localhost:3000) in the browser to v
 - [GitHub Link](https://github.com/kjmckinley/react-portfolio.git)
 - [Heroku Link Portfolio](https://react-portfolio-kjm.herokuapp.com/)
 
+
 ## Demo
 The following images demonstrate the current look of the profile in browser:
 ![profile-demo-01](./assets/profile-demo-01.png)
