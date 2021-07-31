@@ -22,6 +22,9 @@ Type or click [http://localhost:3000](http://localhost:3000) in the browser to v
 - [Heroku Link Portfolio](https://react-portfolio-kjm.herokuapp.com/)
 
 ## Demo
+The following images demonstrate the current look of the profile in browser:
+![profile-demo-01](./assets/profile-demo-01.png)
+![profile-demo-02](./assets/profile-demo-02.png)
 
 
 ## Contributors
